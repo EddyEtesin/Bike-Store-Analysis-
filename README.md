@@ -36,7 +36,7 @@ This SQL project analyzes a bike store's sales data, customer behavior, inventor
 - Discount impact on sales
 - Order fulfillment efficiency
 
-## 🔍 SQL Queries Highlights
+## SQL Queries Highlights
 
 1. **Top 10 Best-Selling Products**
    ```sql
@@ -101,7 +101,7 @@ This SQL project analyzes a bike store's sales data, customer behavior, inventor
    - Address shipping delays
    - Optimize product distribution across stores
 
-## 🛠️ Technical Details
+## Technical Details
 
 - **Database Schema**: Includes tables for orders, order_items, products, customers, staff, stores, brands, and categories
 - **Analysis Period**: Primarily focused on 2018 data
